@@ -1,0 +1,3 @@
+Arquivo criado para observar o git push, pois foi criada a pasta Sporteca e não havia comitado a pasta vazia e quando criei o arquivo texto dentro da pasta, aí sim apareceu no github.
+teste concluído.
+Obrigada DIO!
